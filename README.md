@@ -1,4 +1,4 @@
-## Hi there 👋
+Oi! Eu sou o Gabriel Rodrigues
 
 <!--
 **GabriielRodrigues/GabriielRodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
